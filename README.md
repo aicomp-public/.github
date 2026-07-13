@@ -104,6 +104,18 @@ We deliver **preconfigured ERP solutions** tailored to the specific needs of pac
 
 ---
 
+## Contact Us
+
+Any questions or remarks? Just write us a message!
+
+| | |
+|:---|:---|
+| **Email** | [info@aicomp.com](mailto:info@aicomp.com) |
+| **Phone — Europe & Asia** | +49 7128 304050 |
+| **Phone — Americas** | +1 888 878 8575 |
+
+---
+
 <div align="center">
 
 **© 2026 Aicomp Group · [aicomp.com](https://www.aicomp.com) · [Imprint](https://www.aicomp.com/imprint) · [Privacy Policy](https://www.aicomp.com/privacy-policy)**

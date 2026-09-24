@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icons/brand/aicomp-logo-white.svg" width="30%"/>
+<img src="icons/brand/aicomp-logo-color.png" width="30%"/>
 
 <br/><br/>
 
